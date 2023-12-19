@@ -1,4 +1,8 @@
 # Faaf
+## Команда Кибердворфы
+Гринюк Илья  
+Демидович Ольга  
+Островенко Егор  
 
 
 ## Analysis of the Tinkoff Bank dataset "Increased cashback"  
